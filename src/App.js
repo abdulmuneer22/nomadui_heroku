@@ -8,6 +8,7 @@ class App extends Component {
       <div className="App">
         <div className="App-header">
           Muneer
+          </div>
       </div>
     );
   }
